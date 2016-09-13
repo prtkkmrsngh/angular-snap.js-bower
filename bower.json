@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": [
     "angular-snap.js",
-    "angular-snap.css"
+    "angular-snap-only.css"
   ],
   "ignore": [
     "README.md"
